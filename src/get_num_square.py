@@ -9,7 +9,7 @@ if num:
     num = int(num)
   except Exception:
     exit('ERROR: the INPUT_NUM provided ("{}") is not an integer'.format(num))
- else:
+else:
   num = 1
   
 # to set ouput, print to shell in following syntax
